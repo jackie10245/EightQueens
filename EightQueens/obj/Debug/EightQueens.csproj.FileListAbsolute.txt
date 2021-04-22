@@ -1,0 +1,6 @@
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\bin\Debug\EightQueens.exe
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\obj\Debug\EightQueens.exe
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\obj\Debug\EightQueens.pdb
+C:\Users\Jackie\Documents\Visual Studio 2015\Projects\EightQueens\EightQueens\obj\Debug\EightQueens.csprojResolveAssemblyReference.cache

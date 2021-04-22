@@ -1,0 +1,13 @@
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\bin\Release\EightQueens.exe.config
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\bin\Release\EightQueens.exe
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\bin\Release\EightQueens.pdb
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\obj\Release\EightQueens.csprojResolveAssemblyReference.cache
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\obj\Release\EightQueens.exe
+c:\users\jackie\documents\visual studio 2015\Projects\EightQueens\EightQueens\obj\Release\EightQueens.pdb
+C:\Users\Jackie Lin\Desktop\EightQueens\EightQueens\bin\Release\EightQueens.exe.config
+C:\Users\Jackie Lin\Desktop\EightQueens\EightQueens\bin\Release\EightQueens.exe
+C:\Users\Jackie Lin\Desktop\EightQueens\EightQueens\bin\Release\EightQueens.pdb
+C:\Users\Jackie Lin\Desktop\EightQueens\EightQueens\obj\Release\EightQueens.csprojAssemblyReference.cache
+C:\Users\Jackie Lin\Desktop\EightQueens\EightQueens\obj\Release\EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\Jackie Lin\Desktop\EightQueens\EightQueens\obj\Release\EightQueens.exe
+C:\Users\Jackie Lin\Desktop\EightQueens\EightQueens\obj\Release\EightQueens.pdb
